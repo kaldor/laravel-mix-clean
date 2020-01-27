@@ -1,0 +1,28 @@
+{
+  "name": "laravel-mix-clean",
+  "version": "0.1.0",
+  "description": "A quick Laravel Mix extensions for file cleaning support.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaldor/laravel-mix-clean.git"
+  },
+  "keywords": [
+    "laravel",
+    "laravel mix",
+    "mix",
+    "clean"
+  ],
+  "author": "Stephen Hartley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kaldor/laravel-mix-clean/issues"
+  },
+  "homepage": "https://github.com/kaldor/laravel-mix-clean#readme",
+  "devDependencies": {
+    "laravel-mix": "^5.0.1"
+  }
+}
