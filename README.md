@@ -13,7 +13,7 @@ npm i -D laravel-mix-clean
 
 ## Usage
 
-Require the extension inside your ``webpack.mix.js`` and add clean-css configurations like this:
+Require the extension inside your ``webpack.mix.js`` and add clean configurations like this:
 
 ```javascript
 const mix = require('laravel-mix');
