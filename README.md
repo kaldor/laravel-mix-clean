@@ -35,5 +35,4 @@ mix
   })
 ```
 
-For more information about clean-webpack-plugin configurations please refer to their [documentation](https://github.com/johnagan/
-clean-webpack-plugin/blob/master/README.md).
+For more information about clean-webpack-plugin configurations please refer to their [documentation](https://github.com/johnagan/clean-webpack-plugin/blob/master/README.md).
