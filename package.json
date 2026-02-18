@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/kaldor/laravel-mix-clean#readme",
   "devDependencies": {
-    "laravel-mix": "^5.0.1"
+    "laravel-mix": "^6.0.49"
   }
 }
