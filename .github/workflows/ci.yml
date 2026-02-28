@@ -9,6 +9,8 @@ on:
 jobs:
   test:
     runs-on: ${{ matrix.os }}
+    permissions:
+      contents: read
     
     strategy:
       matrix:
@@ -32,6 +34,8 @@ jobs:
   
   security:
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
     
     steps:
     - uses: actions/checkout@v4
