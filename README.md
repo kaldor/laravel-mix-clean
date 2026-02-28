@@ -1,4 +1,5 @@
 # Laravel Mix Clean
+[![CI](https://github.com/kaldor/laravel-mix-clean/actions/workflows/ci.yml/badge.svg)](https://github.com/kaldor/laravel-mix-clean/actions/workflows/ci.yml)
 [![Latest Version on NPM](https://img.shields.io/npm/v/laravel-mix-clean.svg?style=flat-square)](https://npmjs.com/package/laravel-mix-clean)
 [![npm](https://img.shields.io/npm/dt/laravel-mix-clean.svg?style=flat-square)](https://www.npmjs.com/package/laravel-mix-clean)
 [![Software License](https://img.shields.io/npm/l/laravel-mix-clean.svg?style=flat-square)](LICENSE)
