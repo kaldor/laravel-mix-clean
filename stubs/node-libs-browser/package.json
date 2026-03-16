@@ -1,0 +1,7 @@
+{
+  "name": "node-libs-browser",
+  "version": "2.2.1",
+  "description": "Stub replacing node-libs-browser. laravel-mix lists node-libs-browser as a dependency but does not import or use it at runtime. This stub eliminates the transitive dependency on elliptic (GHSA-848j-6mx2-7j84).",
+  "main": "index.js",
+  "license": "MIT"
+}

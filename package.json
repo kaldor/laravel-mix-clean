@@ -27,6 +27,7 @@
   },
   "overrides": {
     "serialize-javascript": ">=7.0.3",
-    "webpack-dev-server": ">=5.2.1"
+    "webpack-dev-server": ">=5.2.1",
+    "node-libs-browser": "file:./stubs/node-libs-browser"
   }
 }
